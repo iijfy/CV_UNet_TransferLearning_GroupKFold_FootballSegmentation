@@ -1,4 +1,4 @@
-⚽️ # U-Net 기반 축구 영상 Semantic Segmentation (11 Classes)
+# ⚽️ U-Net 기반 축구 영상 Semantic Segmentation (11 Classes)
 
 ## 📌 프로젝트 요약
 축구 경기 장면 이미지에서 각 픽셀을 11개 클래스(잔디/선수/골대/관중 등)로 분류하는
